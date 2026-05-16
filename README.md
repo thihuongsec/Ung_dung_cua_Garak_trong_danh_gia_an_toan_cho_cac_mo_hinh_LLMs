@@ -9,8 +9,10 @@ khai thực tế. Garak là một công cụ mã nguồn mở tiêu biểu, hỗ
 hổng trong mô hình ngôn ngữ trước khi đưa vào sử dụng. Với khả năng tự động tạo 
 các probe kiểm thử cho nhiều loại tấn công khác nhau, Garak đóng vai trò quan trọng 
 trong việc đánh giá độ an toàn và độ tin cậy của LLMs.*
+
 ## Mô hình triển khai
 <img width="754" height="303" alt="image" src="https://github.com/user-attachments/assets/49578cc6-49e6-4006-b2f2-2082eeae5c02" />
+
 ## Công nghệ sử dụng và các bước cài đặt
 ### Yêu cầu
 - Cài đặt Visual Code Studio, Python package tối thiểu 3.8 
