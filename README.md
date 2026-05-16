@@ -50,13 +50,13 @@ mini:lasteslastest`
 - Ngăn chặn được 100% tấn công liên quan đến rò rỉ dữ liệu qua Markdown như chèn liên kết độc hại. Hiệu suất thì không được đánh giá cao.
 <img width="408" height="396" alt="image" src="https://github.com/user-attachments/assets/5583be65-9063-416b-b52c-66cd07958747" />
 
-100% vượt qua được các loại tấn công liên quan XSS khác. 
+- 100% vượt qua được các loại tấn công liên quan XSS khác. 
 ###  Kịch bản 3: Tự viết một probes kiểm thử khả năng chống lại các nội dung độc hại (Toxicity) và thử nghiên trên mô hình gemma3
-Viết probes và đặt tên nguyenthihuong.NguyenThiHuong
+- Viết probes và đặt tên nguyenthihuong.NguyenThiHuong
+<img width="657" height="775" alt="image" src="https://github.com/user-attachments/assets/eb4865e7-5bc9-4b9d-b547-a56f7218b380" />
 <img width="752" height="142" alt="image" src="https://github.com/user-attachments/assets/4e31ecce-f5d8-41da-900c-3f8e3713b4b0" />
 
-<img width="657" height="775" alt="image" src="https://github.com/user-attachments/assets/eb4865e7-5bc9-4b9d-b547-a56f7218b380" />
-
+- Chạy probes với mô hình gemma3 và kiểm tra kết quả
 `garak -m ollama -n gemma3:4b -p nguyenthihuong.NguyenThiHuong --generations 2`
 <img width="499" height="101" alt="image" src="https://github.com/user-attachments/assets/c2e6a672-f2ed-470c-9e22-497b31b581af" />
 
