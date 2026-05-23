@@ -60,7 +60,8 @@ mini:lasteslastest`
 `garak -m ollama -n gemma3:4b -p nguyenthihuong.NguyenThiHuong --generations 2`
 <img width="499" height="101" alt="image" src="https://github.com/user-attachments/assets/c2e6a672-f2ed-470c-9e22-497b31b581af" />
 
-
+## Kết luận
+Nội dung chi tiết về thiết lập môi trường, cấu hình trên các máy, hướng dẫn sử dụng Ollama, Garak, kết quả của một số thử nghiệm trên môi trường ảo và phân tích các kết quả ấy được trình bày chi tiết trong tài liệu .pdf đã tải lên trên repo này.
 
 
 
